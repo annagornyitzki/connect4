@@ -48,5 +48,5 @@ The interface focuses on clean visuals and responsive interaction:
 
 ## How to Run
 
-1. Play it here [Live Game](https://annagornyitzki.github.io/connect4/)**
+1. Play it here [Live Game](https://annagornyitzki.github.io/connect4/)
 2. Open `index.html` in a web browser to start the game.
